@@ -1,2 +1,6 @@
 Interpolation Error Comparison (GMSC)
 ----------------------------------
+Lagrange RMSE: 0.073533
+Polynomial Degree 5 RMSE: 0.060952
+Polynomial Degree 10 RMSE: 0.000000
+Quadratic Piecewise RMSE: 0.066685
